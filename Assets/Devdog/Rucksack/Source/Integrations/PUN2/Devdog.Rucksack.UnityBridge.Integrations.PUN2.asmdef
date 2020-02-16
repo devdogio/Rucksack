@@ -1,0 +1,14 @@
+{
+    "name": "Devdog.Rucksack.UnityBridge.Integrations.PUN2",
+    "references": [
+        "Devdog.Rucksack",
+        "Devdog.Rucksack.UnityBridge",
+        "Devdog.General2",
+        "PhotonUnityNetworking",
+        "PhotonRealtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

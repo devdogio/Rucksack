@@ -1,0 +1,18 @@
+{
+    "name": "Devdog.Rucksack.UnityBridge.Integrations.PUN2.Editors",
+    "references": [
+        "Devdog.Rucksack.UnityBridge.Integrations.PUN2",
+        "Devdog.Rucksack.UnityBridge",
+        "Devdog.Rucksack.UnityBridge.Editors",
+        "Devdog.Rucksack",
+        "Devdog.General2",
+        "Devdog.General2.Editors",
+        "PhotonUnityNetworking"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

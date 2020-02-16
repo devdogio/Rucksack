@@ -1,0 +1,3 @@
+[submodule "general"]
+	path = Assets/Devdog/General2
+	url = https://github.com/devdogio/general.git

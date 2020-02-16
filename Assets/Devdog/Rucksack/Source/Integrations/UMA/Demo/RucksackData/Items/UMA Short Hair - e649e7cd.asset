@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5093ac33e9f16cc48b51d25f0d2cd54c, type: 3}
+  m_Name: UMA Short Hair - e649e7cd
+  m_EditorClassIdentifier: 
+  _parent: {fileID: 0}
+  _guid:
+    _guidBytes: cde749e6fc9d0d4eb046c703a377ab1c
+  _name:
+    _key: bfb89fae-9881-431e-9dbf-ec0fb216a069
+  _description:
+    _key: NO_KEY
+  _maxStackSize: 1
+  _layoutShape:
+    _shape:
+    - cols: 01
+  _buyPrice: []
+  _sellPrice: []
+  _weight: 0
+  _icon: {fileID: 21300000, guid: 8d0701719b363e045ae6d13f06b27cd6, type: 3}
+  _worldModel: {fileID: 0}
+  _equipmentType: {fileID: 11400000, guid: 8578b855b9df0b142b4b747e4577e1b9, type: 2}
+  _mountPoint: 
+  _equipmentModel: {fileID: 0}
+  recipe: {fileID: 11400000, guid: 4acc51a73e0e5884eb7e770d8f803e81, type: 2}

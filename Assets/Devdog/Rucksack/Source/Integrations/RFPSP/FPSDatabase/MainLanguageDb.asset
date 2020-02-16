@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3f70e8a76806945b1b862c0334a021, type: 3}
+  m_Name: MainLanguageDb
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"NO_KEY":"","01627ba0-15c7-4d42-b125-1b06ba3b931f":"Weapon
+    ET 1","771ab136-1715-4285-a414-d9c9022a2946":"RFPSP ","ea473675-24cc-41dc-82d3-5f8437cac2cc":"RFPSP
+    Weapon","d20ac552-a23b-4448-ad75-efad965eb186":"K","ab535e3c-623e-41c5-8039-429d9330c667":"Knife","9f5f45ff-4673-41f3-a302-54b8010915ce":"A","cb6b3fb4-2947-49fc-8708-6cfd5f9cc92e":"Cheese","24cfde25-f3dc-471f-b442-5df3a13d7762":"A","532acfdf-d4f0-4bd4-9fd0-0fc68f8f85fd":"Apple","f9015c97-585b-449e-9593-63d61472de3e":"A","3e8c3688-ad85-4705-9685-fa8a6157b046":"AK
+    47","93949d55-a88a-4996-9237-806250433ce1":"A","625d3423-7b7a-42a0-9130-df5be6158761":"AK
+    47 Ammo"},"_localizedObjects":{}}'
+  _objectReferences: []
+  _lang: en-US

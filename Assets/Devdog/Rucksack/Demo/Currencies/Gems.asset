@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1602d70c723800f4191b2fff5490c82c, type: 3}
+  m_Name: Gems
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidBytes: 8312445f9a77ba42aa12a9cce78293b6
+  _name:
+    _key: tag:yaml.org,2002:str
+  _tokenName:
+    _key: "\U00093CC6"
+  _icon: {fileID: 21300000, guid: a19a6eebcc184944bb903acc0c5e0ab2, type: 3}
+  _decimals: 0
+  _maxAmount: 999

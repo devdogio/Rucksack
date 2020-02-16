@@ -1,0 +1,13 @@
+{
+    "name": "Devdog.Rucksack.UnityBridge.Editors",
+    "references": [
+        "Devdog.Rucksack",
+        "Devdog.Rucksack.UnityBridge",
+        "Devdog.General2",
+        "Devdog.General2.Editors"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

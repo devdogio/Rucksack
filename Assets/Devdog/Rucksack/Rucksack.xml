@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<plugin>
+	<name>Devdog.Rucksack</name>
+	<description>The main Rucksack pacakge</description>
+	<version>1.1.2</version>
+	<separateBuild>false</separateBuild>
+	<dependencies>
+		<dependency name="Devdog.General" minVersion="2.0.0" />
+	</dependencies>
+	<meta>
+		<link type="site" value="https://devdog.io" />
+		<link type="documentation" value="https://google.com" />
+		<link type="discord" value="https://google.com" />
+	</meta>
+</plugin>

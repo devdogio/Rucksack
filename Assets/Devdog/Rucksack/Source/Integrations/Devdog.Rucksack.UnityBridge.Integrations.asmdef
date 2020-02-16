@@ -1,0 +1,10 @@
+{
+    "name": "Devdog.Rucksack.UnityBridge.Integrations",
+    "references": [
+        "Devdog.General2",
+        "Devdog.Rucksack",
+        "Devdog.Rucksack.UnityBridge"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

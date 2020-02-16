@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20ace5bf5b0c934d9a88626d191d75a, type: 3}
+  m_Name: ModularTestItem
+  m_EditorClassIdentifier: 
+  _parent: {fileID: 0}
+  _guid:
+    _guidBytes: 
+  _name:
+    _key: NO_KEY
+  _description:
+    _key: NO_KEY
+  _maxStackSize: 1
+  _layoutShape:
+    _shape:
+    - cols: 01
+  _buyPrice: []
+  _sellPrice: []
+  _weight: 0
+  _icon: {fileID: 0}
+  _worldModel: {fileID: 1276048047291342, guid: a2cb67680631f214e9eb94532bf53e39,
+    type: 2}
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _itemActions
+      Entry: 7
+      Data: 0|Devdog.Rucksack.Integrations.Odin.IItemAction[], Devdog.Rucksack.UnityBridge.Integrations.Odin
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

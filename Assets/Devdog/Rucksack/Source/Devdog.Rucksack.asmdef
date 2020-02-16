@@ -1,0 +1,8 @@
+{
+    "name": "Devdog.Rucksack",
+    "references": [
+        "Devdog.General2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

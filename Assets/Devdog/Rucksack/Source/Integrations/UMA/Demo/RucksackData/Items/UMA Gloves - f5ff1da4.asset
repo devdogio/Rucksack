@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3b4d061b7a4cf41bdca9eb40c8226e, type: 3}
+  m_Name: UMA Gloves - f5ff1da4
+  m_EditorClassIdentifier: 
+  _parent: {fileID: 0}
+  _guid:
+    _guidBytes: a41dfff572d666458a3035ef560b35b9
+  _name:
+    _key: c112428a-8da5-47f9-ac5b-5695ae1bf132
+  _description:
+    _key: NO_KEY
+  _maxStackSize: 1
+  _layoutShape:
+    _shape:
+    - cols: 01
+  _buyPrice: []
+  _sellPrice: []
+  _weight: 0
+  _icon: {fileID: 21300000, guid: acd2947ccc12f0b41aaef2fc727dece4, type: 3}
+  _worldModel: {fileID: 0}
+  _equipmentType: {fileID: 11400000, guid: d18d930439825f443840cdbb939b024d, type: 2}
+  _mountPoint: 
+  _equipmentModel: {fileID: 0}
+  equipSlotsData:
+  - umaEquipSlot: {fileID: 11400000, guid: 881f10d72572db34cb1150ac3df21a97, type: 2}
+    umaOverrideColor: 0
+    umaOverlayColor: {r: 0, g: 0, b: 0, a: 0}
+    umaOverlayDataAsset: {fileID: 11400000, guid: 8583b6d72b2766c40a789f2f24e2de26,
+      type: 2}
+    umaSlotDataAsset: {fileID: 11400000, guid: 2bdd7530c4c3080479f05405559b6f67, type: 2}
+    umaReplaceSlot: {fileID: 11400000, guid: 881f10d72572db34cb1150ac3df21a97, type: 2}
+    umaReplacedSlot:
+      asset: {fileID: 11400000, guid: 881f10d72572db34cb1150ac3df21a97, type: 2}
+      overlayScale: 1
+      dontSerialize: 0
+    umaPrevReplacedSlot:
+      asset: {fileID: 11400000, guid: 2bdd7530c4c3080479f05405559b6f67, type: 2}
+      overlayScale: 1
+      dontSerialize: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd5b97133324bb74591d77a3131baff4, type: 3}
+  m_Name: Cube - a8ea532b
+  m_EditorClassIdentifier: 
+  _parent: {fileID: 0}
+  _guid:
+    _guidBytes: 2b53eaa8fa8d9f4ba8374f36b75b9540
+  _name:
+    _key: 8b69a2b2-bee6-4beb-b34d-3713f2ab441f
+  _description:
+    _key: 987477cb-f973-4009-ac52-19fdb50563fe
+  _maxStackSize: 3
+  _layoutShape:
+    _shape:
+    - cols: 01
+  _buyPrice:
+  - currency: {fileID: 11400000, guid: 7d8e0676d1d3ec9499734134fc8783ce, type: 2}
+    amount: 8
+  _sellPrice:
+  - currency: {fileID: 11400000, guid: 7d8e0676d1d3ec9499734134fc8783ce, type: 2}
+    amount: 5
+  _weight: 0.1
+  _icon: {fileID: 21300000, guid: 24aa52c5b45115d4c8c5d0af8d271b0f, type: 3}
+  _worldModel: {fileID: 1524675990429328, guid: 4794131a0cbf773478345765618fffcd,
+    type: 2}

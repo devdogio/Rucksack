@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc21e8c43d5ada418e7cd1b5628b87c, type: 3}
+  m_Name: Cape
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidBytes: e6a6fae6369db04281830abb3d4cc98b
+  _name:
+    _key: 81c872fb-1ff6-4245-a1b8-ae32e5ee3ade
+  _incompatibleTypes: []

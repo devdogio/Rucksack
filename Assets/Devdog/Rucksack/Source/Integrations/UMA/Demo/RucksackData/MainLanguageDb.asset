@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3f70e8a76806945b1b862c0334a021, type: 3}
+  m_Name: MainLanguageDb
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"a76977ea-3468-4939-b28a-58a57900e0c5":"S","c6dcf92c-e2a2-4ff7-89e2-8ffcf61adcd3":"Hands","3f152075-8496-4304-aadc-07b14ddf549b":"G","c112428a-8da5-47f9-ac5b-5695ae1bf132":"Gloves"},"_localizedObjects":{}}'
+  _objectReferences: []
+  _lang: en-US

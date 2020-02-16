@@ -1,0 +1,12 @@
+{
+    "name": "Devdog.Rucksack.UnityBridge.Integrations.UMA",
+    "references": [
+        "Devdog.General2",
+        "Devdog.Rucksack",
+        "Devdog.Rucksack.UnityBridge",
+        "UMA_Core",
+        "UMA_Content"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

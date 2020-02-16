@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<plugin>
+	<name>Devdog.Rucksack.Integrations.Networking</name>
+	<description>Networking base library plugin for Rucksack</description>
+	<version>1.0.0</version>
+	<separateBuild>false</separateBuild>
+	<dependencies>
+		<dependency name="Devdog.General" minVersion="2.0.0" />
+		<dependency name="Devdog.Rucksack" minVersion="1.0.0" />
+	</dependencies>
+</plugin>

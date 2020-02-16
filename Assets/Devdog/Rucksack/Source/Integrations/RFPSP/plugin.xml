@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<plugin>
+	<name>Devdog.Rucksack.Integrations.RFPSP</name>
+	<description>RFPSP plugin for Rucksack.</description>
+	<version>0.0.2</version>
+	<separateBuild>true</separateBuild>
+	<dependencies>
+		<dependency name="Devdog.General" minVersion="2.0.0" />
+		<dependency name="Devdog.Rucksack" minVersion="1.0.0" />
+		<dependency name="RFPSP" minVersion="1.0.0" />
+	</dependencies>
+</plugin>
